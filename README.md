@@ -63,11 +63,11 @@ Synthetic values use the **NHS England reserved test number range** (`999 000 00
 
 ```bash
 # Clone or download the script
-git clone https://github.com/your-org/hl7-anonymiser.git
+git clone https://github.com/toby2-wyllie/hl7-anonymiser/
 cd hl7-anonymiser
 
 # Or just download the single file
-curl -O https://raw.githubusercontent.com/your-org/hl7-anonymiser/main/hl7_anonymise.py
+curl -O https://raw.githubusercontent.com/toby2-wyllie/hl7-anonymiser/
 
 ---
 
