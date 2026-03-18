@@ -68,7 +68,6 @@ cd hl7-anonymiser
 
 # Or just download the single file
 curl -O https://raw.githubusercontent.com/your-org/hl7-anonymiser/main/hl7_anonymise.py
-```
 
 ---
 
