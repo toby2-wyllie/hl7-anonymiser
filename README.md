@@ -169,7 +169,7 @@ Sincere thanks to:
 
 **Benita** · **Angela** · **Charlotte** · **Samir** · **Sanah**
 
-Your expertise, feedback, and encouragement made this tool what it is.
+Your expertise, feedback, and encouragement made this tool what it is <3
 
 ---
 
