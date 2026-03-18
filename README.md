@@ -1,6 +1,6 @@
 # NHS HL7 Patient Data Anonymiser
 
-A lightweight, interactive command-line tool for anonymising sensitive NHS patient data from HL7 v2.x messages. Designed to support safe integration testing across NHS downstream systems — including Lab Information Systems (LIS), Radiology Information Systems (RIS), Electronic Health Records (EHR), Pharmacy systems, and medical devices — without exposing real patient data.
+A lightweight, interactive command-line tool for anonymising sensitive NHS patient data from HL7 v2.x messages. Designed to support safe integration testing across NHS downstream systems — including Lab Information Systems (LIS), Radiology Information Systems (RIS), Electronic Health Records (EHR), Pharmacy systems, and medical devices — without exposing real patient data. Made by Toby.
 
 No third-party dependencies. No data written to disk. Just run and paste.
 
